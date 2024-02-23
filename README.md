@@ -38,7 +38,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=naiahhh&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=naiahhh&icon=2&color=11)](https://visitcount.itsvg.in)
+
 
 
