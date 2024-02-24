@@ -40,9 +40,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=naiahhh&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
-[![](https://raw.githubusercontent.com/naiahhh/github-profile-summary-cards-example/master/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/naiahhh/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/naiahhh/github-profile-summary-cards-example/master/profile-summary-card-output/radical/1-repos-per-language.svg)](https://github.com/naiahhh/github-profile-summary-cards) [![](https://raw.githubusercontent.com/naiahhh/github-profile-summary-cards-example/master/profile-summary-card-output/radical/2-most-commit-language.svg)](https://github.com/naiahhh/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/naiahhh/github-profile-summary-cards-example/master/profile-summary-card-output/radical/3-stats.svg)](https://github.com/naiahhh/github-profile-summary-cards) [![](https://raw.githubusercontent.com/naiahhh/github-profile-summary-cards-example/master/profile-summary-card-output/radical/4-productive-time.svg)](https://github.com/naiahhh/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/naiahhh/STATS/master/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/naiahhh/STATS/master/profile-summary-card-output/radical/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/naiahhh/STATS/master/profile-summary-card-output/radical/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/naiahhh/STATS/master/profile-summary-card-output/radical/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/naiahhh/STATS/master/profile-summary-card-output/radical/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 
