@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naiahhh&label=Profile%20views&color=0e75b6&style=flat" alt="naiahhh" /> </p>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fvectors%2Favocado-vegetables-kawaii-design-8569068%2F&psig=AOvVaw31nxHjzK_MO7LxHOPd2QFW&ust=1708843072042000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCdm9Wuw4QDFQAAAAAdAAAAABAp">
+
 
 
 
